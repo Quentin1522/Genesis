@@ -1,0 +1,33 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.headerWrapper {
+  background-color: bisque;
+  height: 20vh;
+  width: 100%;
+  display: flex;
+}
+.headerWrapper .menu {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  justify-content: end;
+  background-color: aqua;
+  width: 63%;
+}
+.headerWrapper .menu ul {
+  background-color: brown;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  gap: 5px;
+}
+.headerWrapper .menu ul li {
+  list-style: none;
+}
+.headerWrapper .menu ul li:hover {
+  text-decoration: underline;
+}/*# sourceMappingURL=header.css.map */

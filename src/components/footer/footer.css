@@ -1,0 +1,11 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.wrapperFooter {
+  background-color: bisque;
+  width: 100%;
+  height: 20vh;
+}/*# sourceMappingURL=footer.css.map */

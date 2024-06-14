@@ -1,0 +1,28 @@
+@import '../reset/reset.scss';
+    
+.wrapperBanner{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    .bloc{
+        width: 30%;
+        height: 35vh;
+        padding: 10px;
+    }
+
+    :nth-child(2){
+        background-color: blue;
+        border-radius: 40px 100px;
+    }
+
+    :nth-child(3){
+        background-color: rgb(114, 94, 39);
+        border-radius: 100px 40px
+    }
+
+    :nth-child(4){
+        background-color: rgb(84, 151, 36);
+        border-radius: 40px 100px;
+    }
+}
