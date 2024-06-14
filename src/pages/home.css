@@ -2,4 +2,8 @@
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
+}
+
+.wrapperHome {
+  display: flex;
 }/*# sourceMappingURL=home.css.map */

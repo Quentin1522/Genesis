@@ -1,0 +1,17 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.wrapperMe {
+  height: 45vh;
+}
+.wrapperMe h1 {
+  font-size: 52px;
+  margin-bottom: 10px;
+}
+.wrapperMe h2 {
+  font-size: 30px;
+  text-align: center;
+}/*# sourceMappingURL=me.css.map */

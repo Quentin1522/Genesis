@@ -2,4 +2,27 @@
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
+}
+
+.wrapperBanner {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.wrapperBanner .bloc {
+  width: 30%;
+  height: 35vh;
+  padding: 10px;
+}
+.wrapperBanner :nth-child(2) {
+  background-color: blue;
+  border-radius: 40px 100px;
+}
+.wrapperBanner :nth-child(3) {
+  background-color: rgb(114, 94, 39);
+  border-radius: 100px 40px;
+}
+.wrapperBanner :nth-child(4) {
+  background-color: rgb(84, 151, 36);
+  border-radius: 40px 100px;
 }/*# sourceMappingURL=banner.css.map */
